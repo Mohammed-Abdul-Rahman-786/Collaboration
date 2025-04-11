@@ -1,0 +1,5 @@
+root - DEBUG - hello, Debug!
+root - INFO - hello, info!
+root - WARNING - hello, warning!
+root - ERROR - hello, error!
+root - CRITICAL - hello, critical!
